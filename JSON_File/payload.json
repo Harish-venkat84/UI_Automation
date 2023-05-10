@@ -1,0 +1,31 @@
+{
+  "branchCode" : "768",
+  "supplierId" : "SU11141",
+  "poDate" : "2023-01-03 11:36:03.175",
+  "subType" : "long",
+  "type" : "long",
+  "items" : [ {
+    "seqNo" : 1,
+    "itemId" : "349954",
+    "qty" : 5,
+    "freeQty" : 0,
+    "orderId" : null,
+    "fastMovingFlag" : false
+  }, {
+    "seqNo" : 2,
+    "itemId" : "907328",
+    "qty" : 5,
+    "freeQty" : 0,
+    "orderId" : null,
+    "fastMovingFlag" : false
+  }, {
+    "seqNo" : 3,
+    "itemId" : "46874",
+    "qty" : 5,
+    "freeQty" : 0,
+    "orderId" : null,
+    "fastMovingFlag" : false
+  } ],
+  "expDate" : "2023-02-04 11:36:03.175",
+  "lineItemCount" : 3
+}

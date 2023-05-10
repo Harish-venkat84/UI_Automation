@@ -1,0 +1,12 @@
+[ {
+  "returnCode" : 1000,
+  "returnText" : "Purchase Order has been created successfully, Transaction Id : SOHX0E220000882",
+  "requestUrl" : "/nma/purchase/orders?cmd=create&branchCode=768&type=long&ncOrderRef=1235060",
+  "returnDataCount" : 1,
+  "returnData" : {
+    "orderTxnId" : "SOHX0E220000882",
+    "orderDate" : "2023-01-04T06:06:07.761+0000",
+    "branchCode" : "768"
+  },
+  "orderType" : "SU_ORD"
+} ]

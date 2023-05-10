@@ -1,0 +1,6 @@
+2023/01/10-16:02:16.776 dc4 Creating DB D:\Netmeds\Git\src\rwos\rwos_UI_automation\ChromeCache\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/01/10-16:02:16.891 dc4 Reusing MANIFEST D:\Netmeds\Git\src\rwos\rwos_UI_automation\ChromeCache\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/10-16:02:27.930 7bc Level-0 table #5: started
+2023/01/10-16:02:27.959 7bc Level-0 table #5: 7292 bytes OK
+2023/01/10-16:02:27.962 7bc Delete type=0 #3
+2023/01/10-16:02:27.962 7bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

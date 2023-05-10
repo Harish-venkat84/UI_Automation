@@ -1,0 +1,14 @@
+2023/01/22-13:18:26.537 734 Reusing MANIFEST D:\New folder (2)\Eclipse\Lambda_Maven\rwos_UI_automation\ChromeCache\Default\IndexedDB\https_sit-rwos.netmeds.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/22-13:18:26.538 734 Recovering log #3412
+2023/01/22-13:18:26.692 734 Reusing old log D:\New folder (2)\Eclipse\Lambda_Maven\rwos_UI_automation\ChromeCache\Default\IndexedDB\https_sit-rwos.netmeds.com_0.indexeddb.leveldb/003412.log 
+2023/01/22-13:18:26.693 734 Delete type=2 #3410
+2023/01/22-13:18:29.432 e24 Level-0 table #3417: started
+2023/01/22-13:18:29.520 e24 Level-0 table #3417: 904 bytes OK
+2023/01/22-13:18:29.656 e24 Delete type=0 #3412
+2023/01/22-13:18:29.658 e24 Manual compaction at level-0 from ' \xae\x04\x00\x00\x00' @ 72057594037927935 : 1 .. ' \xaf\x04\x00\x00\x00' @ 0 : 0; will stop at ' \xae\x04\x00\x00\x05' @ 33724 : 1
+2023/01/22-13:18:29.658 e24 Compacting 1@0 + 1@1 files
+2023/01/22-13:18:31.349 e24 Generated table #3418@0: 295 keys, 4116 bytes
+2023/01/22-13:18:31.349 e24 Compacted 1@0 + 1@1 files => 4116 bytes
+2023/01/22-13:18:31.407 e24 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/22-13:18:31.408 e24 Delete type=2 #3417
+2023/01/22-13:18:31.409 e24 Manual compaction at level-0 from ' \xae\x04\x00\x00\x05' @ 33724 : 1 .. ' \xaf\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
